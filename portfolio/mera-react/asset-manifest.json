@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/mera-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio/mera-react/static/js/main.bf2550f9.chunk.js",
-    "main.js.map": "/portfolio/mera-react/static/js/main.bf2550f9.chunk.js.map",
-    "runtime-main.js": "/portfolio/mera-react/static/js/runtime-main.cb0f2cbf.js",
-    "runtime-main.js.map": "/portfolio/mera-react/static/js/runtime-main.cb0f2cbf.js.map",
-    "static/js/2.1927a3e5.chunk.js": "/portfolio/mera-react/static/js/2.1927a3e5.chunk.js",
-    "static/js/2.1927a3e5.chunk.js.map": "/portfolio/mera-react/static/js/2.1927a3e5.chunk.js.map",
-    "index.html": "/portfolio/mera-react/index.html",
-    "precache-manifest.5e86c3f456bbba1bacf5a9f9ef4d98b6.js": "/portfolio/mera-react/precache-manifest.5e86c3f456bbba1bacf5a9f9ef4d98b6.js",
-    "service-worker.js": "/portfolio/mera-react/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/portfolio/mera-react/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1927a3e5.chunk.js.LICENSE.txt": "/portfolio/mera-react/static/js/2.1927a3e5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/portfolio/mera-react/static/media/logo.5d5d9eef.svg"
+    "main.css": "/mera-react/static/css/main.e346f0b5.chunk.css",
+    "main.js": "/mera-react/static/js/main.052f003c.chunk.js",
+    "main.js.map": "/mera-react/static/js/main.052f003c.chunk.js.map",
+    "runtime-main.js": "/mera-react/static/js/runtime-main.ab198534.js",
+    "runtime-main.js.map": "/mera-react/static/js/runtime-main.ab198534.js.map",
+    "static/js/2.3b4517fa.chunk.js": "/mera-react/static/js/2.3b4517fa.chunk.js",
+    "static/js/2.3b4517fa.chunk.js.map": "/mera-react/static/js/2.3b4517fa.chunk.js.map",
+    "index.html": "/mera-react/index.html",
+    "precache-manifest.d52fd12a72752d159440823d413b7d21.js": "/mera-react/precache-manifest.d52fd12a72752d159440823d413b7d21.js",
+    "service-worker.js": "/mera-react/service-worker.js",
+    "static/css/main.e346f0b5.chunk.css.map": "/mera-react/static/css/main.e346f0b5.chunk.css.map",
+    "static/js/2.3b4517fa.chunk.js.LICENSE.txt": "/mera-react/static/js/2.3b4517fa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mera-react/static/media/bg-header.d7b3e246.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb0f2cbf.js",
-    "static/js/2.1927a3e5.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bf2550f9.chunk.js"
+    "static/js/runtime-main.ab198534.js",
+    "static/js/2.3b4517fa.chunk.js",
+    "static/css/main.e346f0b5.chunk.css",
+    "static/js/main.052f003c.chunk.js"
   ]
 }
